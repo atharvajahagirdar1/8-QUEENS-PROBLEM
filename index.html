@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8 Queens Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>8 Queens Puzzle</h1>
+    <div class="instructions">
+        <h2>How to Play</h2>
+        <p>Place exactly 8 queens on the chessboard in a way that no two queens attack each other.</p>
+        <p>Click on a cell to place a queen. Click again to remove it.</p>
+        <p>If you exceed 8 queens, you will receive a warning.</p>
+        <p>Try to find a solution where no two queens share the same row, column, or diagonal!</p>
+    </div>
+    <div id="chessboard"></div>
+    <button onclick="resetBoard()">Reset Board</button>
+    <p id="status"></p>
+    <script src="script.js"></script>
+</body>
+</html>
