@@ -15,3 +15,5 @@ An interactive **8 Queens Puzzle** game where players place 8 queens on a chessb
 1. Place **8 queens** on the board.  
 2. Ensure no two queens share the same **row, column, or diagonal**.  
 3. Get instant feedback & try again if incorrect!  
+
+![127 0 0 1_3000_index html](https://github.com/user-attachments/assets/de291d71-dbdb-469d-835b-af61d787a8fd)
